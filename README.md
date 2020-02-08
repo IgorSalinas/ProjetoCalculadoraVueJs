@@ -1,24 +1,6 @@
-# calculator
+# Projeto-Calculadora-VueJs
+Projeto de estudo criando réplica da calculadora do MacOS usando VueJs
 
-## Project setup
-```
-yarn install
-```
+<img src="./CalculadoraVueJs.gif" alt="Calculadora">
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto criado como parte dos estudos de VueJs no curso: <a href="https://www.udemy.com/course/curso-web/" target="blank">Web Moderno com JavaScript 2020</a>
